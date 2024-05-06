@@ -1,4 +1,4 @@
-# Simple aged cache
+# My implementation of the Simple aged cache Assignment 
 
 An exercise to help individuals new to modern software engineering practices understand the basics of
  test driven development.
@@ -31,6 +31,7 @@ The exercise - get the tests to pass!
 - Try not using built in collection classes; Lists, Maps, or Sets.
 - Try both Java and Kotlin examples.
 
+✓ Allyx Lichkov
 ```java
 package io.collective;
 
@@ -60,9 +61,6 @@ public class SimpleAgedCache {
     }
 }
 ```
-Hope you enjoy the exercise!
 
-Thanks, @barinek
 
-© 2021 by Initial Capacity, Inc. All rights reserved.
 
